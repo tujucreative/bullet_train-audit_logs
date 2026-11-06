@@ -1,3 +1,7 @@
+require "bullet_train/super_scaffolding"
+require "scaffolding"
+require "scaffolding/transformer"
+
 require "bullet_train/audit_logs/version"
 require "bullet_train/audit_logs/engine"
 require "bullet_train/audit_logs/scaffolders/audit_logs_scaffolder"

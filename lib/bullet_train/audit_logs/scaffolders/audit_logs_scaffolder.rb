@@ -5,7 +5,6 @@ module BulletTrain
   module AuditLogs
     module Scaffolders
       class AuditLogScaffolder < SuperScaffolding::Scaffolder
-
         # TODO this method was removed from the global scope in super scaffolding and moved to `Scaffolding::Transformer`,
         # but this gem hasn't been updated yet.
         def legacy_replace_in_file(file, before, after)

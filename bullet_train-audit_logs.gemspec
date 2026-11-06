@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version = BulletTrain::AuditLogs::VERSION
   spec.authors = ["Andrew Culver", "Adam Pallozzi"]
   spec.email = ["andrew.culver@gmail.com", "adampallozzi@gmail.com"]
-  spec.homepage = "https://github.com/andrewculver/bullet_train-audit_logs"
+  spec.homepage = "https://github.com/tujucreative/bullet_train-audit_logs"
   spec.summary = "Bullet Train Audit Logs"
   spec.description = spec.summary
   spec.license = "MIT"
